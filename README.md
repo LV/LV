@@ -11,5 +11,5 @@
  
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=lv.lv"><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=23FFEB00&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+my+profile+%F0%9F%91%8B%2C+I+am+Luis.;Sports%2C+Financial+Markets%2C+and+Engineering+are+my+life.;+;+;+;+;+;+;+;+;+;+;+;+;+;+;+;+;+"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=23FFEB00&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+my+profile+%F0%9F%91%8B%2C+I+am+Luis.;Sports%2C+Financial+Markets%2C+and+Engineering+are+my+mojo.;+;+;+;+;+;+;+;+;+;+;+;+;+;+;+;+;+"/>
 </p>
